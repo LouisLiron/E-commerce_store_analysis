@@ -4,7 +4,7 @@
 
 The dataset at hand encompasses transnational data, encompassing all transactions between 01/12/2010 and 09/12/2011, associated with a UK-based and registered non-store online retail company. The company's core focus revolves around the sale of distinctive all-occasion gifts. Remarkably, a substantial portion of the company's clientele consists of wholesalers. The project's objective entails delving into the dataset, uncovering its intrinsic characteristics, and providing answers to questions posed by a stakeholder.
 
-## Variabeles
+## Variables
 
 - InvoiceDate - This refers to the specific date on which a particular transaction occurred. It is in the MM/DD/YYYY format.
 - Description - This provides information about the product being purchased, along with a few details about it.
